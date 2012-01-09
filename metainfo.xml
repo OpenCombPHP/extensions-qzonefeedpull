@@ -1,0 +1,15 @@
+<Extension>
+
+	<name>qzonefeedpull</name>
+	<version>0.1</version>
+	<title>QQ空间动态拉取</title>
+	
+ 
+	<class>org.opencomb.qzonefeedpull.Qzonefeedpull</class>
+	<package folder="/class" namespace="org.opencomb.qzonefeedpull" />
+ 
+	<template folder="/template" />
+	
+	<publicFolder folder="/public" />
+	
+</Extension>
